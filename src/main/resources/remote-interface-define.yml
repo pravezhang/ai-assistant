@@ -1,0 +1,10 @@
+ai:
+  assistant:
+    management:
+      url:
+        prefix: "http://localhost:20201/"
+      interface:
+        test: "test"
+        voice-query: "voice-query"
+        continue-query: "continue-query"
+        log: "log"

@@ -1,0 +1,12 @@
+.list-cell:even {
+    -fx-background-color: white;
+}
+.list-cell:odd {
+    -fx-background-color: white;
+}
+.list-cell:selected {
+    -fx-background-color: white;
+}
+.list-cell:empty {
+    -fx-background-color: white;
+}

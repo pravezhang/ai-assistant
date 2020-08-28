@@ -1,0 +1,6 @@
+serial:
+  baud-rate: 115200
+  checkout-bit: 0
+  data-bit: 8
+  stop-bit: 1
+  number: "COM"
